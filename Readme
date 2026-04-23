@@ -1,1 +1,4 @@
 D STUDIO RELEASE
+
+RUN THIS COMMAND IN YOUR TERMINAL FOR USER MAC OS
+xattr -cr ~/Downloads/D\ Name Of Files.app
